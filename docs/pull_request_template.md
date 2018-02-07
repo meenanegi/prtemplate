@@ -1,0 +1,4 @@
+-[ ] Did you run pylint ?
+-[ ] Did you folllow PEP8 checks ?
+-[ ] Did you write unit test ?
+-[ ] Did you run your test locally?
